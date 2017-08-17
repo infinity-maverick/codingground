@@ -8,7 +8,7 @@ public class calculator{
 		"/* Old skool\n    2 operand CALCULATOR */\n\n\n   Enter calculation ( Operand_1 operator Operand_2");
 
 		int n1=sc.nextInt();
-		char operator=hello.charAt(0);
+		char operator=sc.next().charAt(0);
 		int n2=sc.nextInt();
 
 
